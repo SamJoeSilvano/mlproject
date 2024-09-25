@@ -150,5 +150,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the **Flask** and **Scikit-learn** communities for their invaluable resources.
 - Thank you to all contributors for making this project possible!
 ```
-
-This is the complete markdown code for your `README.md`. You can copy and paste it directly into your repository.
