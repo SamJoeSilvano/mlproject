@@ -1,5 +1,3 @@
-Here is the entire `README.md` in markdown format:
-
 # Student Exam Performance Indicator
 
 **An End-to-End Flask-based Web Application to Analyze and Predict Student Exam Performance.**
@@ -86,7 +84,7 @@ The model was selected for its ability to generalize well on unseen data and its
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.10+
 - Flask
 - Scikit-learn
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -94,7 +92,7 @@ The model was selected for its ability to generalize well on unseen data and its
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/student-exam-performance-indicator.git
+   git clone https://github.com/SamJoeSilvano/mlproject.git
 
 2. Navigate to the project directory:
    cd student-exam-performance-indicator
